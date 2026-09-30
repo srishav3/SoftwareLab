@@ -1,2 +1,3 @@
 Hello, Git!
-This is my software assignment
+This is my first Git lab.
+This change is made in the feature branch.
